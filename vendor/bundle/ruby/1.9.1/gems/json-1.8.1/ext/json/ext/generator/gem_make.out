@@ -1,0 +1,4 @@
+/usr/bin/ruby1.9.1 extconf.rb 
+/usr/local/lib/site_ruby/1.9.1/rubygems/core_ext/kernel_require.rb:55:in `require': cannot load such file -- mkmf (LoadError)
+	from /usr/local/lib/site_ruby/1.9.1/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from extconf.rb:1:in `<main>'
